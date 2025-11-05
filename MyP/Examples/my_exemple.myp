@@ -1,0 +1,11 @@
+program exemple;
+{Expressions hétérogènes}
+function factorial(x:int):int
+begin 
+	if 
+
+var
+  x:int ;
+begin
+  x := 3+5;
+end.
